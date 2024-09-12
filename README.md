@@ -8,17 +8,20 @@
 </div>
 
 ###
-<a href="https://twitter.com/sickuritywizard" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo" />
-</a>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+
+<a href="https://twitter.com/sickuritywizard" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo" />
+</a>
+<a href="https://medium.com/@sickuritywizard" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="medium logo" />
+</a>
+<a href="https://linkedin.com/in/sickuritywizard" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+</a>
+
 </div>
-
-
 
 ###
 <h2 align="left"></h2>
